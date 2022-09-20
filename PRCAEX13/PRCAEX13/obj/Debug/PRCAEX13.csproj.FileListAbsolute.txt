@@ -1,0 +1,7 @@
+C:\Users\isavs\source\repos\PRCAEX13\PRCAEX13\bin\Debug\PRCAEX13.exe.config
+C:\Users\isavs\source\repos\PRCAEX13\PRCAEX13\bin\Debug\PRCAEX13.exe
+C:\Users\isavs\source\repos\PRCAEX13\PRCAEX13\bin\Debug\PRCAEX13.pdb
+C:\Users\isavs\source\repos\PRCAEX13\PRCAEX13\obj\Debug\PRCAEX13.csprojAssemblyReference.cache
+C:\Users\isavs\source\repos\PRCAEX13\PRCAEX13\obj\Debug\PRCAEX13.csproj.CoreCompileInputs.cache
+C:\Users\isavs\source\repos\PRCAEX13\PRCAEX13\obj\Debug\PRCAEX13.exe
+C:\Users\isavs\source\repos\PRCAEX13\PRCAEX13\obj\Debug\PRCAEX13.pdb
