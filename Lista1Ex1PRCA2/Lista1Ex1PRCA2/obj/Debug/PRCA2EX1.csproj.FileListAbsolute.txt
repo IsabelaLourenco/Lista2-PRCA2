@@ -1,0 +1,7 @@
+C:\Users\isavs\source\repos\Lista1Ex1PRCA2\Lista1Ex1PRCA2\bin\Debug\Lista1Ex1PRCA2.exe.config
+C:\Users\isavs\source\repos\Lista1Ex1PRCA2\Lista1Ex1PRCA2\bin\Debug\Lista1Ex1PRCA2.exe
+C:\Users\isavs\source\repos\Lista1Ex1PRCA2\Lista1Ex1PRCA2\bin\Debug\Lista1Ex1PRCA2.pdb
+C:\Users\isavs\source\repos\Lista1Ex1PRCA2\Lista1Ex1PRCA2\obj\Debug\PRCA2EX1.csprojAssemblyReference.cache
+C:\Users\isavs\source\repos\Lista1Ex1PRCA2\Lista1Ex1PRCA2\obj\Debug\PRCA2EX1.csproj.CoreCompileInputs.cache
+C:\Users\isavs\source\repos\Lista1Ex1PRCA2\Lista1Ex1PRCA2\obj\Debug\Lista1Ex1PRCA2.exe
+C:\Users\isavs\source\repos\Lista1Ex1PRCA2\Lista1Ex1PRCA2\obj\Debug\Lista1Ex1PRCA2.pdb

@@ -1,0 +1,7 @@
+C:\Users\isavs\source\repos\PRCA2EX6\PRCA2EX6\bin\Debug\PRCA2EX6.exe.config
+C:\Users\isavs\source\repos\PRCA2EX6\PRCA2EX6\bin\Debug\PRCA2EX6.exe
+C:\Users\isavs\source\repos\PRCA2EX6\PRCA2EX6\bin\Debug\PRCA2EX6.pdb
+C:\Users\isavs\source\repos\PRCA2EX6\PRCA2EX6\obj\Debug\PRCA2EX6.csprojAssemblyReference.cache
+C:\Users\isavs\source\repos\PRCA2EX6\PRCA2EX6\obj\Debug\PRCA2EX6.csproj.CoreCompileInputs.cache
+C:\Users\isavs\source\repos\PRCA2EX6\PRCA2EX6\obj\Debug\PRCA2EX6.exe
+C:\Users\isavs\source\repos\PRCA2EX6\PRCA2EX6\obj\Debug\PRCA2EX6.pdb
